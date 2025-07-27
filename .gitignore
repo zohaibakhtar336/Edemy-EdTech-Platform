@@ -1,0 +1,40 @@
+# Environment Variables
+.env
+client/.env
+server/.env
+
+# Dependency Folders
+client/node_modules/
+server/node_modules/
+
+# Build Artifacts
+client/build/
+server/dist/
+
+# Logs & Debug
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test Coverage
+coverage/
+
+# System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor Configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Cache
+client/.cache/
+server/.cache/
+
+*.snap
+
