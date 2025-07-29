@@ -29,6 +29,6 @@ const Rating = ({ initialRating, onRate }) => {
       })}
     </div>
   );
-}
+};
 
 export default Rating;
